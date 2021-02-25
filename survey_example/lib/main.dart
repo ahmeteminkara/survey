@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:survey_example/main.dart';
+import 'package:survey_example/home.dart';
 
 
 void main() {
