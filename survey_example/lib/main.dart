@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:survey_example/home.dart';
+import 'package:survey_example/main.dart';
+
 
 void main() {
   runApp(MyApp());
@@ -19,7 +20,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-/**
- * textbox focus
- */
