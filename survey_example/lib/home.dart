@@ -1,12 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:survey/survey.dart';
-import 'package:survey/widget/survey_classic.dart';
-import 'package:survey/widget/survey_emoji.dart';
-import 'package:survey/widget/survey_multiple_select.dart';
-import 'package:survey/widget/survey_single_select.dart';
-import 'package:survey/widget/survey_slider.dart';
-import 'package:survey/widget/survey_stars.dart';
-import 'package:survey/widget/survey_true_false.dart';
 
 import 'survey_list.dart';
 
